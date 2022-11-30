@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg35"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="inkscape-cutiemark.svg"
+   inkscape:export-filename="inkscape-cutiemark.svg"
+   inkscape:export-xdpi="130.048"
+   inkscape:export-ydpi="130.048"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#574d71"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3932941"
+     inkscape:cx="112.6826"
+     inkscape:cy="165.79415"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs32">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient24003">
+      <stop
+         style="stop-color:#1f1f1f;stop-opacity:1;"
+         offset="0"
+         id="stop23999" />
+      <stop
+         style="stop-color:#3b3b3b;stop-opacity:1;"
+         offset="1"
+         id="stop24001" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24003"
+       id="linearGradient24005"
+       x1="55.317272"
+       y1="220.53928"
+       x2="155.31728"
+       y2="220.53928"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94999997,0,0,0.95,-320.59068,-104.19503)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24017">
+      <g
+         id="g24035"
+         transform="rotate(90)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           id="rect24019"
+           width="15"
+           height="15"
+           x="77.817276"
+           y="173.03928"
+           rx="2" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           id="rect24021"
+           width="15"
+           height="55"
+           x="77.817276"
+           y="213.03928"
+           rx="2" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           id="rect24023"
+           width="15"
+           height="15"
+           x="-132.81728"
+           y="-268.03928"
+           transform="scale(-1)"
+           rx="2" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           id="rect24025"
+           width="15"
+           height="55"
+           x="-132.81728"
+           y="-228.03928"
+           transform="scale(-1)"
+           rx="2" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           id="rect24027"
+           width="15"
+           height="15"
+           x="-248.03928"
+           y="57.817272"
+           transform="rotate(-90)"
+           rx="2" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           id="rect24029"
+           width="15"
+           height="55"
+           x="-248.03928"
+           y="97.817276"
+           transform="rotate(-90)"
+           rx="2" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           id="rect24031"
+           width="15"
+           height="15"
+           x="193.03928"
+           y="-152.81728"
+           transform="rotate(90)"
+           rx="2" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           id="rect24033"
+           width="15"
+           height="55"
+           x="193.03928"
+           y="-112.81728"
+           transform="rotate(90)"
+           rx="2" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient24005);fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+       id="rect20874"
+       width="94.999992"
+       height="95"
+       x="-268.03928"
+       y="57.81728"
+       transform="matrix(0,-1.0526317,1.0526316,0,-60.860295,-182.14664)"
+       clip-path="url(#clipPath24017)"
+       inkscape:export-filename="cutiemark.webp"
+       inkscape:export-xdpi="130.048"
+       inkscape:export-ydpi="130.048" />
+  </g>
+</svg>
